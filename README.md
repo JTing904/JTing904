@@ -76,28 +76,19 @@ fun_fact: "I debug faster with music on 🎧"
 <!-- ============ 统计卡片 ============ -->
 ## 📊 GitHub Stats
 
+<!-- 这些卡片由本仓库的 Actions 每天生成，直接从 raw.githubusercontent 读，不会被限流 -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JTing904&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTing904&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+<img width="49%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<img width="49%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 <br /><br />
 
 <img src="https://streak-stats.demolab.com?user=JTing904&hide_border=true&theme=tokyonight" />
 
-<br /><br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JTing904&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
-<br />
-
-<!-- ============ 奖杯 ============ -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JTing904&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 <br />
@@ -105,16 +96,31 @@ fun_fact: "I debug faster with music on 🎧"
 <!-- ============ 精选项目 ============ -->
 ## 📌 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/JTing904/SavvyPiggy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JTing904&repo=SavvyPiggy&hide_border=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/JTing904/Divided-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JTing904&repo=Divided-Tracker&hide_border=true&theme=tokyonight" />
-</a>
+### 🐷 [SavvyPiggy](https://github.com/JTing904/SavvyPiggy)
 
-</div>
+个人理财管理 App —— 记账、预算与支出分析。
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 [Divided-Tracker](https://github.com/JTing904/Divided-Tracker)
+
+Android 分账追踪器 —— 多人消费自动摊分。
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br />
 
