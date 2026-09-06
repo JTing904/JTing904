@@ -1,3 +1,2 @@
-push.bat
-push.ps1
-finish.bat
+*.bat
+*.ps1
