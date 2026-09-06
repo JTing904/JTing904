@@ -31,7 +31,7 @@ fun_fact: "I debug faster with music on 🎧"
 ```
 
 - 🔭 Currently building **SavvyPiggy** — a personal finance management app
-- 📈 Also working on **Divided-Tracker**, an Android app for watching stock dividends update in real time
+- 📈 Also working on **Dividend-Tracker**, an Android app for watching stock dividends update in real time
 - 🌱 Learning system design and cloud infrastructure
 - 💬 Happy to talk about TypeScript, Kotlin/Android and backend APIs
 - ⚡ Motto: *Ship it, then make it better.*
@@ -111,7 +111,7 @@ fun_fact: "I debug faster with music on 🎧"
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Divided-Tracker](https://github.com/JTing904/Divided-Tracker)
+### 📈 [Dividend-Tracker](https://github.com/JTing904/Dividend-Tracker)
 
 股息追踪器 —— 实时查看持仓股票的分红收益跳动。
 
