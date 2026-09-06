@@ -31,7 +31,7 @@ fun_fact: "I debug faster with music on 🎧"
 ```
 
 - 🔭 Currently building **SavvyPiggy** — a personal finance management app
-- 📱 Also working on **Divided-Tracker**, an Android expense-splitting tracker
+- 📈 Also working on **Divided-Tracker**, an Android app for watching stock dividends update in real time
 - 🌱 Learning system design and cloud infrastructure
 - 💬 Happy to talk about TypeScript, Kotlin/Android and backend APIs
 - ⚡ Motto: *Ship it, then make it better.*
@@ -111,9 +111,9 @@ fun_fact: "I debug faster with music on 🎧"
 </td>
 <td width="50%" valign="top">
 
-### 💸 [Divided-Tracker](https://github.com/JTing904/Divided-Tracker)
+### 📈 [Divided-Tracker](https://github.com/JTing904/Divided-Tracker)
 
-Android 分账追踪器 —— 多人消费自动摊分。
+股息追踪器 —— 实时查看持仓股票的分红收益跳动。
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
