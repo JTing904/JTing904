@@ -1,17 +1,14 @@
 <!-- ============ 顶部横幅 ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EdwardJT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=EdwardJT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate&descAlignY=55&descSize=18" />
 
 <!-- ============ 打字动画 ============ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Building+things+end+to+end;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Kotlin+%2B+Spring+Boot+on+the+server;React+and+Jetpack+Compose+on+the+client;Never+floating+point+for+money" alt="Typing SVG" />
 </div>
 
 <!-- ============ 社交徽章 ============ -->
 <div align="center">
-  <!-- 有 LinkedIn / 个人网站的话，把下面两行的注释去掉并填上链接
-  <a href="https://linkedin.com/in/你的用户名"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://你的网站"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  -->
+  <a href="https://jting904.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://github.com/JTing904?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=JTing904&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
 </div>
@@ -22,18 +19,19 @@
 ## 👋 About Me
 
 ```yaml
-name: EdwardJT
-role: Full-Stack Developer
-focus: [ "web apps", "mobile apps", "APIs" ]
-currently_learning: [ "system design", "cloud infrastructure" ]
-open_to: [ "internships", "collaboration", "open source" ]
-fun_fact: "I debug faster with music on 🎧"
+name: Tan Keng Ting
+handle: EdwardJT
+study: BSc (Hons) Software Engineering @ TAR UMT
+server: [ Kotlin, Spring Boot, PostgreSQL, Flyway ]
+client: [ React, TypeScript, Jetpack Compose ]
+data:   [ Python, pandas, scikit-learn ]
+rule:   "Money is never a float."
 ```
 
-- 🔭 Currently building **SavvyPiggy** — a personal finance management app
-- 📈 Also working on **Dividend Stream**, an Android app for watching stock dividends update in real time
-- 🌱 Learning system design and cloud infrastructure
-- 💬 Happy to talk about TypeScript, Kotlin/Android and backend APIs
+- 🔭 Building **Dividend Stream** — a Kotlin/Spring Boot API with an Android and a Windows client
+- 🐷 And **SavvyPiggy** — a savings app where a deposit clears your debt before it counts toward a goal
+- 🌱 Currently learning: API design under load, and how to test things properly
+- 💬 Happy to talk about Kotlin, Android, and getting decimal arithmetic right
 - ⚡ Motto: *Ship it, then make it better.*
 
 <br />
@@ -41,42 +39,75 @@ fun_fact: "I debug faster with music on 🎧"
 <!-- ============ 技术栈 ============ -->
 ## 🛠 Tech Stack
 
+> Everything below appears in a repository on this account. Nothing is here just to fill a row.
+
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,python,cpp&theme=dark" />
-</p>
-
-**Frontend & Mobile**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,ts,java,python,js&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL%20(Oracle)-F80000?style=flat-square&logo=oracle&logoColor=white" height="40" />
 </p>
 
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,graphql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,firebase&theme=dark" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="40" />
 </p>
 
-**Database**
+**Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,gradle&theme=dark" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" height="40" />
+</p>
+
+**Data & AI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="40" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea&theme=dark" />
 </p>
+
+<br />
+
+<!-- ============ Metrics ============ -->
+## 📈 Metrics
+
+<!-- 由 .github/workflows/metrics.yml 每天生成，提交进本仓库的 metrics/ 目录 -->
+<div align="center">
+
+<img width="46%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/metrics/overview.svg" />
+<img width="46%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/metrics/languages.svg" />
+
+<img width="94%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/metrics/isocalendar.svg" />
+
+<img width="46%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/metrics/habits.svg" />
+<img width="46%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/metrics/achievements.svg" />
+
+</div>
 
 <br />
 
 <!-- ============ 统计卡片 ============ -->
 ## 📊 GitHub Stats
 
-<!-- 这些卡片由本仓库的 Actions 每天生成，直接从 raw.githubusercontent 读，不会被限流 -->
 <div align="center">
 
 <img width="49%" src="https://raw.githubusercontent.com/JTing904/JTing904/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
@@ -100,23 +131,26 @@ fun_fact: "I debug faster with music on 🎧"
 <tr>
 <td width="50%" valign="top">
 
-### 🐷 [SavvyPiggy](https://github.com/JTing904/SavvyPiggy)
+### 📈 [Dividend Stream](https://github.com/JTing904/Dividend-Stream)
 
-个人理财管理 App —— 记账、预算与支出分析。
+把预期股息按秒累积着显示出来。后端每行只存一个速率和一个区间，谁要看谁自己算 —— 刷新只是一次带索引的 SELECT。
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Dividend Stream](https://github.com/JTing904/Dividend-Stream)
+### 🐷 [SavvyPiggy](https://github.com/JTing904/SavvyPiggy)
 
-股息追踪器 —— 实时查看持仓股票的分红收益跳动。
+存钱罐 + 诚实的欠款：每笔存入先还清欠的，剩下的才算进目标。金额全用整数「分」，不碰浮点。
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 </tr>
@@ -124,7 +158,7 @@ fun_fact: "I debug faster with music on 🎧"
 
 <br />
 
-<!-- ============ 贪吃蛇动画（需要配 Actions，见 snake.yml） ============ -->
+<!-- ============ 贪吃蛇动画 ============ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
