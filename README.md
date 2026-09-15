@@ -82,7 +82,7 @@ rule:   "Money is never a float."
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,vscode,idea&theme=dark" />
 </p>
 
 <br />
