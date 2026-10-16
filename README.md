@@ -29,7 +29,8 @@ data:   [ Python, pandas, scikit-learn ]
 rule:   "Money is never a float."
 ```
 
-- 🛰️ Just released **OrbitOffice**: build your own AI office, a 3D world where AI agents split the work and write real files
+- 🪟 New: **WindowVerse**, up to six virtual monitors for your real windows, inside a 3D room (Godot)
+- 🛰️ Released **OrbitOffice**: build your own AI office, a 3D world where AI agents split the work and write real files
 - 🧩 Building **MeritAI**: fair group projects, where work is split into equal packages and evidence decides who did what
 - 📈 **Dividend Stream**: a Kotlin/Spring Boot API with an Android and a Windows client
 - 🐷 **SavvyPiggy v2.0** is out: a wallet, debts with interest, bills, receipts and Bursa investing
@@ -86,7 +87,7 @@ rule:   "Money is never a float."
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,blender,figma,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,godot,blender,figma,vscode,idea&theme=dark" />
 </p>
 
 <br />
@@ -135,6 +136,17 @@ rule:   "Money is never a float."
 <tr>
 <td width="50%" valign="top">
 
+### 🪟 [WindowVerse](https://jting904.github.io/WindowVerse-releases)
+
+More screens, no extra monitors. Your real windows sit on up to six virtual monitors in a 3D room, and you can step in to type and click. Free for Windows 11. [Download](https://github.com/JTing904/WindowVerse-releases/releases/latest) · 0.4 preview
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![DirectX 12](https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=xbox&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🛰️ [OrbitOffice](https://github.com/JTing904/OrbitOffice)
 
 Build your own AI office. Describe the work and AI sets up departments of agents in one 3D world; they split tasks, hand off to each other and write real files into your folder. Includes an MCP server for Claude Code. [Website](https://jting904.github.io/OrbitOffice) · [Download](https://github.com/JTing904/OrbitOffice/releases/latest)
@@ -145,6 +157,8 @@ Build your own AI office. Describe the work and AI sets up departments of agents
 ![MCP](https://img.shields.io/badge/MCP-5A45FF?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧩 [MeritAI](https://github.com/JTing904/MeritAI)
@@ -157,8 +171,6 @@ Fair group projects. The brief becomes tasks worth 100 points, split into one eq
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📈 [Dividend Stream](https://github.com/JTing904/Dividend-Stream)
@@ -171,6 +183,8 @@ An expected dividend, shown building up second by second. Each row stores only a
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐷 [SavvyPiggy](https://github.com/JTing904/SavvyPiggy)
@@ -181,6 +195,17 @@ Every ringgit in its place. One deposit is split across your goals in whole cent
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [This portfolio](https://jting904.github.io)
+
+Hand-built carousel whose background is painted from colours pulled out of each screenshot; Lenis smooth scroll and GSAP scroll scenes.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
