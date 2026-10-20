@@ -24,12 +24,13 @@ name: Tan Keng Ting
 handle: EdwardJT
 study: BSc (Hons) Software Engineering @ TAR UMT
 server: [ Kotlin, Spring Boot, Hono, PostgreSQL, Prisma ]
-client: [ React, React Native, Electron, Three.js, Jetpack Compose ]
+client: [ React, Vue, React Native, Electron, Three.js, Jetpack Compose ]
 data:   [ Python, pandas, scikit-learn ]
 rule:   "Money is never a float."
 ```
 
-- 🪟 New: **WindowVerse**, up to six virtual monitors for your real windows, inside a 3D room (Godot)
+- 🎤 New: **LyriStage**, a lyrics-first music player with nine full-screen lyric styles and Listen Together rooms
+- 🪟 **WindowVerse**, up to six virtual monitors for your real windows, inside a 3D room (Godot)
 - 🛰️ Released **OrbitOffice**: build your own AI office, a 3D world where AI agents split the work and write real files
 - 🧩 Building **MeritAI**: fair group projects, where work is split into equal packages and evidence decides who did what
 - 📈 **Dividend Stream**: a Kotlin/Spring Boot API with an Android and a Windows client
@@ -63,7 +64,7 @@ rule:   "Money is never a float."
 **Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,threejs,tailwind,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,electron,threejs,tailwind,vite,html,css&theme=dark" />
 </p>
 
 **Mobile**
@@ -136,6 +137,18 @@ rule:   "Money is never a float."
 <tr>
 <td width="50%" valign="top">
 
+### 🎤 [LyriStage](https://jting904.github.io/LyriStage-releases)
+
+Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyric styles, word-by-word highlighting, a Daily Mix, and Listen Together rooms that stay in sync across devices. Windows, Android and iPhone. [Web app](https://lyristage.vercel.app) · v2.0
+
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🪟 [WindowVerse](https://jting904.github.io/WindowVerse-releases)
 
 More screens, no extra monitors. Your real windows sit on up to six virtual monitors in a 3D room, and you can step in to type and click. Free for Windows 11. [Download](https://github.com/JTing904/WindowVerse-releases/releases/latest) · 0.4 preview
@@ -145,6 +158,8 @@ More screens, no extra monitors. Your real windows sit on up to six virtual moni
 ![DirectX 12](https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=xbox&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛰️ [OrbitOffice](https://github.com/JTing904/OrbitOffice)
@@ -157,8 +172,6 @@ Build your own AI office. Describe the work and AI sets up departments of agents
 ![MCP](https://img.shields.io/badge/MCP-5A45FF?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧩 [MeritAI](https://github.com/JTing904/MeritAI)
@@ -171,6 +184,8 @@ Fair group projects. The brief becomes tasks worth 100 points, split into one eq
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 [Dividend Stream](https://github.com/JTing904/Dividend-Stream)
@@ -183,8 +198,6 @@ An expected dividend, shown building up second by second. Each row stores only a
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🐷 [SavvyPiggy](https://github.com/JTing904/SavvyPiggy)
@@ -195,17 +208,6 @@ Every ringgit in its place. One deposit is split across your goals in whole cent
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [This portfolio](https://jting904.github.io)
-
-Hand-built carousel whose background is painted from colours pulled out of each screenshot; Lenis smooth scroll and GSAP scroll scenes.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
