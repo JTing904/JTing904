@@ -139,7 +139,7 @@ rule:   "Money is never a float."
 
 ### 🎤 [LyriStage](https://jting904.github.io/LyriStage-releases)
 
-Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyric styles, word-by-word highlighting, a Daily Mix, and Listen Together rooms that stay in sync across devices. Windows, Android and iPhone. [Web app](https://lyristage.vercel.app) · v2.0
+Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyric styles, word-by-word highlighting, a Daily Mix, and Listen Together rooms that stay in sync across devices. Windows, Android and iPhone. [Download](https://github.com/JTing904/LyriStage/releases/latest) · [Web app](https://lyristage.vercel.app) · v2.0
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
