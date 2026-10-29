@@ -24,12 +24,13 @@ name: Tan Keng Ting
 handle: EdwardJT
 study: BSc (Hons) Software Engineering @ TAR UMT
 server: [ Kotlin, Spring Boot, Hono, PostgreSQL, Prisma ]
-client: [ React, Vue, React Native, Electron, Three.js, Jetpack Compose ]
+client: [ React, Vue, React Native, Flutter, Electron, Three.js, Jetpack Compose ]
 data:   [ Python, pandas, scikit-learn ]
 rule:   "Money is never a float."
 ```
 
-- 🎤 New: **LyriStage**, a lyrics-first music player with nine full-screen lyric styles and Listen Together rooms
+- 🎬 New: **Lumora**, a Chinese-first player for films, series, anime and live TV on Windows, Android and Android TV (Flutter)
+- 🎤 **LyriStage**, a lyrics-first music player with nine full-screen lyric styles and Listen Together rooms
 - 🪟 **WindowVerse**, up to six virtual monitors for your real windows, inside a 3D room (Godot)
 - 🛰️ Released **OrbitOffice**: build your own AI office, a 3D world where AI agents split the work and write real files
 - 🧩 Building **MeritAI**: fair group projects, where work is split into equal packages and evidence decides who did what
@@ -70,7 +71,7 @@ rule:   "Money is never a float."
 **Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,gradle&theme=dark" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" height="40" />
@@ -137,9 +138,21 @@ rule:   "Money is never a float."
 <tr>
 <td width="50%" valign="top">
 
+### 🎬 [Lumora](https://github.com/JTing904/Lumora)
+
+Films, series, anime and live TV in one Chinese-first player. TMDb details, continue watching, a next-episode countdown, skip intro, picks that learn your taste, and synced history. Works with a TV remote. Open source, invite-only. [Website](https://jting904.github.io/Lumora) · [Download](https://github.com/JTing904/Lumora/releases/latest)
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Android TV](https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=androidtv&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎤 [LyriStage](https://jting904.github.io/LyriStage-releases)
 
-Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyric styles, word-by-word highlighting, a Daily Mix, and Listen Together rooms that stay in sync across devices. Windows, Android and iPhone. [Web app](https://lyristage.vercel.app) · v2.0
+Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyric styles, word-by-word highlighting, a Daily Mix, and Listen Together rooms that stay in sync across devices. Windows, Android and iPhone. [Download](https://github.com/JTing904/LyriStage/releases/latest) · [Web app](https://lyristage.vercel.app) · v2.0
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
@@ -147,6 +160,8 @@ Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyr
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🪟 [WindowVerse](https://jting904.github.io/WindowVerse-releases)
@@ -158,8 +173,6 @@ More screens, no extra monitors. Your real windows sit on up to six virtual moni
 ![DirectX 12](https://img.shields.io/badge/DirectX_12-107C10?style=flat-square&logo=xbox&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛰️ [OrbitOffice](https://github.com/JTing904/OrbitOffice)
@@ -172,6 +185,8 @@ Build your own AI office. Describe the work and AI sets up departments of agents
 ![MCP](https://img.shields.io/badge/MCP-5A45FF?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧩 [MeritAI](https://github.com/JTing904/MeritAI)
@@ -184,8 +199,6 @@ Fair group projects. The brief becomes tasks worth 100 points, split into one eq
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📈 [Dividend Stream](https://github.com/JTing904/Dividend-Stream)
@@ -198,6 +211,8 @@ An expected dividend, shown building up second by second. Each row stores only a
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐷 [SavvyPiggy](https://github.com/JTing904/SavvyPiggy)
@@ -208,6 +223,17 @@ Every ringgit in its place. One deposit is split across your goals in whole cent
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [This portfolio](https://jting904.github.io)
+
+The site you came from. A pinned 3D carousel whose background is painted from the colours of each screenshot, with one variable typeface stretched across its width axis. [Live](https://jting904.github.io)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
