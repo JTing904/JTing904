@@ -142,6 +142,8 @@ rule:   "Money is never a float."
 
 Films, series, anime and live TV in one Chinese-first player. TMDb details, continue watching, a next-episode countdown, skip intro, picks that learn your taste, and synced history. Works with a TV remote. Open source, invite-only. [Website](https://jting904.github.io/Lumora) · [Download](https://github.com/JTing904/Lumora/releases/latest)
 
+<sub>Built on [ZPlay](https://github.com/tzero86/ZPlay) by tzero86 (GPL-3.0).</sub>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -150,9 +152,11 @@ Films, series, anime and live TV in one Chinese-first player. TMDb details, cont
 </td>
 <td width="50%" valign="top">
 
-### 🎤 [LyriStage](https://jting904.github.io/LyriStage-releases)
+### 🎤 [LyriStage](https://jting904.github.io/LyriStage)
 
 Let the lyrics take the stage. A lyrics-first music player: nine full-screen lyric styles, word-by-word highlighting, a Daily Mix, and Listen Together rooms that stay in sync across devices. Windows, Android and iPhone. [Download](https://github.com/JTing904/LyriStage/releases/latest) · [Web app](https://lyristage.vercel.app) · v2.0
+
+<sub>Started as a fork of [YesPlayMusic](https://github.com/qier222/YesPlayMusic) by qier222 (MIT).</sub>
 
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
